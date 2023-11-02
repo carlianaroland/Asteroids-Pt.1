@@ -1,11 +1,3 @@
-/* Carliana Roland 
-9/11/23
-COMP167, SEC-001
-Creating and setting the up "Asteroids" game using given UML document
-*/
-
-package Astr_pack;
-import java.awt.Shape;
 
 public class VectorShape { // base class
 	private Shape shape;  // all of the attributes/ private data members, they should only be able to be accessed through their accessor!!
